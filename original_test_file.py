@@ -109,3 +109,4 @@ while True:
 
 # Game over
 print("Game over!")
+print("Sorry!")
