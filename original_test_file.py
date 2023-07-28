@@ -108,5 +108,4 @@ while True:
     print(f"{enemy_name} heals for {enemy_heal} HP!")
 
 # Game over
-print("Game over!")
-print("Sorry!")
+print("Game over! Sorry")
